@@ -1,3 +1,5 @@
+[1단계](https://github.com/jujubebat/js-todo-list-step1/tree/step1)
+
 <p align="middle" >
   <img width="200px;" src="./src/images/check_list.png"/>
 </p>
